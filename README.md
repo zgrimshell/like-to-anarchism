@@ -1,2 +1,2 @@
 # like-to-anarchism
-There is already like to communism, now the anarchy population can rejoice also.
+An chrome extension that instead of heart like icon you get anarchism icon
