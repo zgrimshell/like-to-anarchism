@@ -1,0 +1,15 @@
+.HeartAnimation {
+  background-image: url(chrome-extension://__MSG_@@extension_id__/web_heart_animation.png) !important;
+}
+/*heart badge next to likes on notifications page*/
+.Icon--communismBadge:before {
+    content: "\262D";
+    background: #DD2E44;
+    color: white;
+    padding: 0em .15em .05em;
+    border-radius: 8px;
+    border: solid 3px white;
+    margin-left: -0.4em;
+    height: 1em;
+    line-height: .8em;
+}
